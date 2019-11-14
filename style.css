@@ -1,0 +1,17 @@
+#main-container{
+    width: 600;
+    margin: auto;
+}
+
+ul{
+    width: 160px;
+    padding: 10px;
+    list-style:none;
+}
+
+li{
+    margin-left: 30px;
+    color: red;
+}
+
+
